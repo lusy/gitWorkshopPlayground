@@ -4,3 +4,5 @@ glittering stardust ashes of a long gone supernova.
 
 The blob looked around curiously and wondered where everyone else
 was.
+
+Curiosly, it started to explore the surrounding planets.
